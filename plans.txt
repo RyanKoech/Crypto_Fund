@@ -1,0 +1,4 @@
+Frontend will have a screen to contribute - 4 options (Sexual Abuse, FGM, RanAways, Financial Aid)
+Each Card Will have an image, title, desription and a text area and send button.
+Each button will call a send function to send money to respective smart contract
+Each contract balances will be fetched and viewed
