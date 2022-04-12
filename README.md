@@ -79,13 +79,13 @@ This project is [MIT](./MIT.md) licensed.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/RyanKoech/Hackathon-Polygon_Harmony.svg?style=for-the-badge
-[contributors-url]: https://github.com/RyanKoech/Hackathon-Polygon_Harmony/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/RyanKoech/Hackathon-Polygon_Harmony.svg?style=for-the-badge
-[forks-url]: https://github.com/RyanKoech/Hackathon-Polygon_Harmony/network/members
-[stars-shield]: https://img.shields.io/github/stars/RyanKoech/Hackathon-Polygon_Harmony.svg?style=for-the-badge
-[stars-url]: https://github.com/RyanKoech/Hackathon-Polygon_Harmony/stargazers
-[issues-shield]: https://img.shields.io/github/issues/RyanKoech/Hackathon-Polygon_Harmony.svg?style=for-the-badge
-[issues-url]: https://github.com/RyanKoech/Hackathon-Polygon_Harmony/issues
-[license-shield]: https://img.shields.io/github/license/RyanKoech/Hackathon-Polygon_Harmony.svg?style=for-the-badge
-[license-url]: https://github.com/RyanKoech/Hackathon-Polygon_Harmony/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/RyanKoech/Crypto_Fund.svg?style=for-the-badge
+[contributors-url]: https://github.com/RyanKoech/Crypto_Fund/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/RyanKoech/Crypto_Fund.svg?style=for-the-badge
+[forks-url]: https://github.com/RyanKoech/Crypto_Fund/network/members
+[stars-shield]: https://img.shields.io/github/stars/RyanKoech/Crypto_Fund.svg?style=for-the-badge
+[stars-url]: https://github.com/RyanKoech/Crypto_Fund/stargazers
+[issues-shield]: https://img.shields.io/github/issues/RyanKoech/Crypto_Fund.svg?style=for-the-badge
+[issues-url]: https://github.com/RyanKoech/Crypto_Fund/issues
+[license-shield]: https://img.shields.io/github/license/RyanKoech/Crypto_Fund.svg?style=for-the-badge
+[license-url]: https://github.com/RyanKoech/Crypto_Fund/blob/master/LICENSE.txt
