@@ -14,7 +14,7 @@
 
 ![](https://img.shields.io/badge/Hackathon-blueviolet)
 
-# Project Name
+# Crypto Fund
 
 > A simple DAPP where users can choose to donate crypto funds for various good causes.
 
